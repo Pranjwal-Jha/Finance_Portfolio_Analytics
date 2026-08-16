@@ -1,0 +1,7 @@
+sector,total_market_value,portfolio_weight,sector_return,as_of_date,num_stocks,tickers_in_sector
+Technology,43616.16,0.312847,1.790304,2026-07-21,4,"AAPL, GOOGL, MSFT, NVDA"
+Financials,32491.94,0.233056,1.212945,2026-07-21,4,"BRK-B, GS, JPM, V"
+Consumer,18269.05,0.131039,0.441887,2026-07-21,3,"AMZN, KO, PG"
+Industrials,17919.47,0.128532,1.521639,2026-07-21,2,"CAT, HON"
+Healthcare,15567.45,0.111661,0.032535,2026-07-21,3,"JNJ, PFE, UNH"
+Energy,11552.85,0.082865,1.330587,2026-07-21,2,"CVX, XOM"

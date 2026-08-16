@@ -1,0 +1,19 @@
+ticker,company_name,sector,total_return,direction,rank_best,rank_worst
+NVDA,NVIDIA Corporation,Technology,5.88650874,Gainer,1,18
+CAT,Caterpillar Inc.,Industrials,3.64987392,Gainer,2,17
+GS,"The Goldman Sachs Group, Inc.",Financials,2.06314684,Gainer,3,16
+XOM,ExxonMobil Holdings Corporation,Energy,1.77857958,Gainer,4,15
+GOOGL,Alphabet Inc.,Technology,1.42880284,Gainer,5,14
+JPM,JPMorgan Chase & Co.,Financials,1.40398649,Gainer,6,13
+CVX,Chevron Corporation,Energy,0.90867903,Gainer,7,12
+AAPL,Apple Inc.,Technology,0.84377067,Gainer,8,11
+V,Visa Inc.,Financials,0.66997398,Gainer,9,10
+JNJ,Johnson & Johnson,Healthcare,0.65491292,Gainer,10,9
+BRK-B,Berkshire Hathaway Inc.,Financials,0.62944247,Gainer,11,8
+KO,The Coca-Cola Company,Consumer,0.58273063,Gainer,12,7
+AMZN,"Amazon.com, Inc.",Consumer,0.45257314,Gainer,13,6
+HON,Honeywell International Inc.,Industrials,0.23739329,Gainer,14,5
+MSFT,Microsoft Corporation,Technology,0.23631468,Gainer,15,4
+PG,The Procter & Gamble Company,Consumer,0.01764613,Gainer,16,3
+UNH,UnitedHealth Group Incorporated,Healthcare,-0.06319474,Loser,17,2
+PFE,Pfizer Inc.,Healthcare,-0.44262699,Loser,18,1

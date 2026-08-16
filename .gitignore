@@ -1,0 +1,24 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (keep schema, ignore large files)
+data/portfolio.db
+data/backups/*.csv
+
+# Tableau (packaged workbooks can be large)
+# tableau/*.twbx  # Uncomment if you don't want to track workbooks

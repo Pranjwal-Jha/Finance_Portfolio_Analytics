@@ -1,0 +1,172 @@
+ticker_1,ticker_2,correlation,lookback_period,sector_1,sector_2,correlation_category
+AAPL,AAPL,1.0,ALL,Technology,Technology,High Positive
+AAPL,AMZN,0.535993,ALL,Technology,Consumer Cyclical,Moderate Positive
+AAPL,BRK-B,0.459266,ALL,Technology,Financial Services,Moderate Positive
+AAPL,CAT,0.305965,ALL,Technology,Industrials,Moderate Positive
+AAPL,CVX,0.216158,ALL,Technology,Energy,Low/No Correlation
+AAPL,GOOGL,0.542244,ALL,Technology,Communication Services,Moderate Positive
+AAPL,GS,0.425911,ALL,Technology,Financial Services,Moderate Positive
+AAPL,HON,0.413076,ALL,Technology,Industrials,Moderate Positive
+AAPL,JNJ,0.134959,ALL,Technology,Healthcare,Low/No Correlation
+AAPL,JPM,0.373695,ALL,Technology,Financial Services,Moderate Positive
+AAPL,KO,0.254125,ALL,Technology,Consumer Defensive,Low/No Correlation
+AAPL,MSFT,0.569103,ALL,Technology,Technology,Moderate Positive
+AAPL,NVDA,0.488277,ALL,Technology,Technology,Moderate Positive
+AAPL,PFE,0.233841,ALL,Technology,Healthcare,Low/No Correlation
+AAPL,PG,0.258037,ALL,Technology,Consumer Defensive,Low/No Correlation
+AAPL,UNH,0.094512,ALL,Technology,Healthcare,Low/No Correlation
+AAPL,V,0.491101,ALL,Technology,Financial Services,Moderate Positive
+AAPL,XOM,0.1745,ALL,Technology,Energy,Low/No Correlation
+AMZN,AMZN,1.0,ALL,Consumer Cyclical,Consumer Cyclical,High Positive
+AMZN,BRK-B,0.358132,ALL,Consumer Cyclical,Financial Services,Moderate Positive
+AMZN,CAT,0.291232,ALL,Consumer Cyclical,Industrials,Low/No Correlation
+AMZN,CVX,0.149832,ALL,Consumer Cyclical,Energy,Low/No Correlation
+AMZN,GOOGL,0.617489,ALL,Consumer Cyclical,Communication Services,Moderate Positive
+AMZN,GS,0.431809,ALL,Consumer Cyclical,Financial Services,Moderate Positive
+AMZN,HON,0.34427,ALL,Consumer Cyclical,Industrials,Moderate Positive
+AMZN,JNJ,-0.003235,ALL,Consumer Cyclical,Healthcare,Low/No Correlation
+AMZN,JPM,0.369429,ALL,Consumer Cyclical,Financial Services,Moderate Positive
+AMZN,KO,0.081973,ALL,Consumer Cyclical,Consumer Defensive,Low/No Correlation
+AMZN,MSFT,0.626193,ALL,Consumer Cyclical,Technology,Moderate Positive
+AMZN,NVDA,0.537041,ALL,Consumer Cyclical,Technology,Moderate Positive
+AMZN,PFE,0.140546,ALL,Consumer Cyclical,Healthcare,Low/No Correlation
+AMZN,PG,0.100071,ALL,Consumer Cyclical,Consumer Defensive,Low/No Correlation
+AMZN,UNH,0.079807,ALL,Consumer Cyclical,Healthcare,Low/No Correlation
+AMZN,V,0.410168,ALL,Consumer Cyclical,Financial Services,Moderate Positive
+AMZN,XOM,0.081391,ALL,Consumer Cyclical,Energy,Low/No Correlation
+BRK-B,BRK-B,1.0,ALL,Financial Services,Financial Services,High Positive
+BRK-B,CAT,0.376331,ALL,Financial Services,Industrials,Moderate Positive
+BRK-B,CVX,0.370915,ALL,Financial Services,Energy,Moderate Positive
+BRK-B,GOOGL,0.321806,ALL,Financial Services,Communication Services,Moderate Positive
+BRK-B,GS,0.478418,ALL,Financial Services,Financial Services,Moderate Positive
+BRK-B,HON,0.477451,ALL,Financial Services,Industrials,Moderate Positive
+BRK-B,JNJ,0.356827,ALL,Financial Services,Healthcare,Moderate Positive
+BRK-B,JPM,0.588401,ALL,Financial Services,Financial Services,Moderate Positive
+BRK-B,KO,0.417752,ALL,Financial Services,Consumer Defensive,Moderate Positive
+BRK-B,MSFT,0.348904,ALL,Financial Services,Technology,Moderate Positive
+BRK-B,NVDA,0.243455,ALL,Financial Services,Technology,Low/No Correlation
+BRK-B,PFE,0.35008,ALL,Financial Services,Healthcare,Moderate Positive
+BRK-B,PG,0.367683,ALL,Financial Services,Consumer Defensive,Moderate Positive
+BRK-B,UNH,0.231677,ALL,Financial Services,Healthcare,Low/No Correlation
+BRK-B,V,0.542309,ALL,Financial Services,Financial Services,Moderate Positive
+BRK-B,XOM,0.337736,ALL,Financial Services,Energy,Moderate Positive
+CAT,CAT,1.0,ALL,Industrials,Industrials,High Positive
+CAT,CVX,0.361724,ALL,Industrials,Energy,Moderate Positive
+CAT,GOOGL,0.307076,ALL,Industrials,Communication Services,Moderate Positive
+CAT,GS,0.559533,ALL,Industrials,Financial Services,Moderate Positive
+CAT,HON,0.450696,ALL,Industrials,Industrials,Moderate Positive
+CAT,JNJ,0.076828,ALL,Industrials,Healthcare,Low/No Correlation
+CAT,JPM,0.48736,ALL,Industrials,Financial Services,Moderate Positive
+CAT,KO,0.038636,ALL,Industrials,Consumer Defensive,Low/No Correlation
+CAT,MSFT,0.190746,ALL,Industrials,Technology,Low/No Correlation
+CAT,NVDA,0.344262,ALL,Industrials,Technology,Moderate Positive
+CAT,PFE,0.18395,ALL,Industrials,Healthcare,Low/No Correlation
+CAT,PG,0.030052,ALL,Industrials,Consumer Defensive,Low/No Correlation
+CAT,UNH,0.074606,ALL,Industrials,Healthcare,Low/No Correlation
+CAT,V,0.268757,ALL,Industrials,Financial Services,Low/No Correlation
+CAT,XOM,0.33008,ALL,Industrials,Energy,Moderate Positive
+CVX,CVX,1.0,ALL,Energy,Energy,High Positive
+CVX,GOOGL,0.103182,ALL,Energy,Communication Services,Low/No Correlation
+CVX,GS,0.268303,ALL,Energy,Financial Services,Low/No Correlation
+CVX,HON,0.233325,ALL,Energy,Industrials,Low/No Correlation
+CVX,JNJ,0.1384,ALL,Energy,Healthcare,Low/No Correlation
+CVX,JPM,0.307334,ALL,Energy,Financial Services,Moderate Positive
+CVX,KO,0.145711,ALL,Energy,Consumer Defensive,Low/No Correlation
+CVX,MSFT,0.121401,ALL,Energy,Technology,Low/No Correlation
+CVX,NVDA,0.117351,ALL,Energy,Technology,Low/No Correlation
+CVX,PFE,0.192395,ALL,Energy,Healthcare,Low/No Correlation
+CVX,PG,0.030177,ALL,Energy,Consumer Defensive,Low/No Correlation
+CVX,UNH,0.106516,ALL,Energy,Healthcare,Low/No Correlation
+CVX,V,0.199688,ALL,Energy,Financial Services,Low/No Correlation
+CVX,XOM,0.845436,ALL,Energy,Energy,High Positive
+GOOGL,GOOGL,1.0,ALL,Communication Services,Communication Services,High Positive
+GOOGL,GS,0.397182,ALL,Communication Services,Financial Services,Moderate Positive
+GOOGL,HON,0.310218,ALL,Communication Services,Industrials,Moderate Positive
+GOOGL,JNJ,0.04665,ALL,Communication Services,Healthcare,Low/No Correlation
+GOOGL,JPM,0.332032,ALL,Communication Services,Financial Services,Moderate Positive
+GOOGL,KO,0.082529,ALL,Communication Services,Consumer Defensive,Low/No Correlation
+GOOGL,MSFT,0.556271,ALL,Communication Services,Technology,Moderate Positive
+GOOGL,NVDA,0.509955,ALL,Communication Services,Technology,Moderate Positive
+GOOGL,PFE,0.132918,ALL,Communication Services,Healthcare,Low/No Correlation
+GOOGL,PG,0.113879,ALL,Communication Services,Consumer Defensive,Low/No Correlation
+GOOGL,UNH,0.096694,ALL,Communication Services,Healthcare,Low/No Correlation
+GOOGL,V,0.361869,ALL,Communication Services,Financial Services,Moderate Positive
+GOOGL,XOM,0.039343,ALL,Communication Services,Energy,Low/No Correlation
+GS,GS,1.0,ALL,Financial Services,Financial Services,High Positive
+GS,HON,0.462188,ALL,Financial Services,Industrials,Moderate Positive
+GS,JNJ,0.103993,ALL,Financial Services,Healthcare,Low/No Correlation
+GS,JPM,0.746009,ALL,Financial Services,Financial Services,High Positive
+GS,KO,0.077925,ALL,Financial Services,Consumer Defensive,Low/No Correlation
+GS,MSFT,0.368214,ALL,Financial Services,Technology,Moderate Positive
+GS,NVDA,0.427565,ALL,Financial Services,Technology,Moderate Positive
+GS,PFE,0.223023,ALL,Financial Services,Healthcare,Low/No Correlation
+GS,PG,0.082786,ALL,Financial Services,Consumer Defensive,Low/No Correlation
+GS,UNH,0.124787,ALL,Financial Services,Healthcare,Low/No Correlation
+GS,V,0.43145,ALL,Financial Services,Financial Services,Moderate Positive
+GS,XOM,0.22151,ALL,Financial Services,Energy,Low/No Correlation
+HON,HON,1.0,ALL,Industrials,Industrials,High Positive
+HON,JNJ,0.235854,ALL,Industrials,Healthcare,Low/No Correlation
+HON,JPM,0.450194,ALL,Industrials,Financial Services,Moderate Positive
+HON,KO,0.29367,ALL,Industrials,Consumer Defensive,Low/No Correlation
+HON,MSFT,0.325642,ALL,Industrials,Technology,Moderate Positive
+HON,NVDA,0.293223,ALL,Industrials,Technology,Low/No Correlation
+HON,PFE,0.298852,ALL,Industrials,Healthcare,Low/No Correlation
+HON,PG,0.321372,ALL,Industrials,Consumer Defensive,Moderate Positive
+HON,UNH,0.151745,ALL,Industrials,Healthcare,Low/No Correlation
+HON,V,0.417716,ALL,Industrials,Financial Services,Moderate Positive
+HON,XOM,0.199329,ALL,Industrials,Energy,Low/No Correlation
+JNJ,JNJ,1.0,ALL,Healthcare,Healthcare,High Positive
+JNJ,JPM,0.178097,ALL,Healthcare,Financial Services,Low/No Correlation
+JNJ,KO,0.457021,ALL,Healthcare,Consumer Defensive,Moderate Positive
+JNJ,MSFT,0.015327,ALL,Healthcare,Technology,Low/No Correlation
+JNJ,NVDA,-0.120052,ALL,Healthcare,Technology,Low/No Correlation
+JNJ,PFE,0.441176,ALL,Healthcare,Healthcare,Moderate Positive
+JNJ,PG,0.433583,ALL,Healthcare,Consumer Defensive,Moderate Positive
+JNJ,UNH,0.197165,ALL,Healthcare,Healthcare,Low/No Correlation
+JNJ,V,0.225075,ALL,Healthcare,Financial Services,Low/No Correlation
+JNJ,XOM,0.128384,ALL,Healthcare,Energy,Low/No Correlation
+JPM,JPM,1.0,ALL,Financial Services,Financial Services,High Positive
+JPM,KO,0.180928,ALL,Financial Services,Consumer Defensive,Low/No Correlation
+JPM,MSFT,0.312832,ALL,Financial Services,Technology,Moderate Positive
+JPM,NVDA,0.339033,ALL,Financial Services,Technology,Moderate Positive
+JPM,PFE,0.233482,ALL,Financial Services,Healthcare,Low/No Correlation
+JPM,PG,0.17185,ALL,Financial Services,Consumer Defensive,Low/No Correlation
+JPM,UNH,0.161284,ALL,Financial Services,Healthcare,Low/No Correlation
+JPM,V,0.488536,ALL,Financial Services,Financial Services,Moderate Positive
+JPM,XOM,0.25571,ALL,Financial Services,Energy,Low/No Correlation
+KO,KO,1.0,ALL,Consumer Defensive,Consumer Defensive,High Positive
+KO,MSFT,0.127914,ALL,Consumer Defensive,Technology,Low/No Correlation
+KO,NVDA,-0.022073,ALL,Consumer Defensive,Technology,Low/No Correlation
+KO,PFE,0.308951,ALL,Consumer Defensive,Healthcare,Moderate Positive
+KO,PG,0.633122,ALL,Consumer Defensive,Consumer Defensive,Moderate Positive
+KO,UNH,0.16082,ALL,Consumer Defensive,Healthcare,Low/No Correlation
+KO,V,0.328153,ALL,Consumer Defensive,Financial Services,Moderate Positive
+KO,XOM,0.160768,ALL,Consumer Defensive,Energy,Low/No Correlation
+MSFT,MSFT,1.0,ALL,Technology,Technology,High Positive
+MSFT,NVDA,0.587626,ALL,Technology,Technology,Moderate Positive
+MSFT,PFE,0.161382,ALL,Technology,Healthcare,Low/No Correlation
+MSFT,PG,0.144376,ALL,Technology,Consumer Defensive,Low/No Correlation
+MSFT,UNH,0.115234,ALL,Technology,Healthcare,Low/No Correlation
+MSFT,V,0.44134,ALL,Technology,Financial Services,Moderate Positive
+MSFT,XOM,0.056742,ALL,Technology,Energy,Low/No Correlation
+NVDA,NVDA,1.0,ALL,Technology,Technology,High Positive
+NVDA,PFE,0.045623,ALL,Technology,Healthcare,Low/No Correlation
+NVDA,PG,-0.013383,ALL,Technology,Consumer Defensive,Low/No Correlation
+NVDA,UNH,0.052137,ALL,Technology,Healthcare,Low/No Correlation
+NVDA,V,0.337935,ALL,Technology,Financial Services,Moderate Positive
+NVDA,XOM,0.054919,ALL,Technology,Energy,Low/No Correlation
+PFE,PFE,1.0,ALL,Healthcare,Healthcare,High Positive
+PFE,PG,0.281686,ALL,Healthcare,Consumer Defensive,Low/No Correlation
+PFE,UNH,0.177581,ALL,Healthcare,Healthcare,Low/No Correlation
+PFE,V,0.267345,ALL,Healthcare,Financial Services,Low/No Correlation
+PFE,XOM,0.15755,ALL,Healthcare,Energy,Low/No Correlation
+PG,PG,1.0,ALL,Consumer Defensive,Consumer Defensive,High Positive
+PG,UNH,0.181174,ALL,Consumer Defensive,Healthcare,Low/No Correlation
+PG,V,0.312955,ALL,Consumer Defensive,Financial Services,Moderate Positive
+PG,XOM,0.052543,ALL,Consumer Defensive,Energy,Low/No Correlation
+UNH,UNH,1.0,ALL,Healthcare,Healthcare,High Positive
+UNH,V,0.21191,ALL,Healthcare,Financial Services,Low/No Correlation
+UNH,XOM,0.078003,ALL,Healthcare,Energy,Low/No Correlation
+V,V,1.0,ALL,Financial Services,Financial Services,High Positive
+V,XOM,0.199367,ALL,Financial Services,Energy,Low/No Correlation
+XOM,XOM,1.0,ALL,Energy,Energy,High Positive

@@ -1,0 +1,19 @@
+ticker,shares_held,buy_price,buy_date,sector,industry
+AAPL,50,145.00,2022-01-10,Technology,Consumer Electronics
+MSFT,30,290.00,2022-01-10,Technology,Software - Infrastructure
+GOOGL,20,130.00,2022-02-15,Technology,Internet Content & Information
+NVDA,40,220.00,2022-03-01,Technology,Semiconductors
+JNJ,35,165.00,2022-01-20,Healthcare,Drug Manufacturers
+UNH,10,470.00,2022-04-01,Healthcare,Healthcare Plans
+PFE,100,48.00,2022-02-01,Healthcare,Drug Manufacturers
+JPM,25,150.00,2022-01-15,Financials,Banks - Diversified
+GS,10,350.00,2022-03-15,Financials,Capital Markets
+V,20,210.00,2022-02-20,Financials,Credit Services
+AMZN,30,140.00,2022-01-25,Consumer,Internet Retail
+PG,40,155.00,2022-02-10,Consumer,Household & Personal Products
+KO,60,58.00,2022-03-01,Consumer,Beverages - Non-Alcoholic
+XOM,45,72.00,2022-01-10,Energy,Oil & Gas Integrated
+CVX,25,125.00,2022-02-15,Energy,Oil & Gas Integrated
+CAT,15,210.00,2022-04-01,Industrials,Farm & Heavy Construction Machinery
+HON,20,195.00,2022-03-10,Industrials,Conglomerates
+BRK-B,12,310.00,2022-01-20,Financials,Insurance - Diversified

@@ -1,0 +1,20 @@
+# Financial Portfolio Analytics - Dependencies
+# Install: pip install -r requirements.txt
+
+# Data Collection
+yfinance>=0.2.31          # Yahoo Finance API wrapper
+
+# Data Processing & Analytics
+pandas>=2.1.0             # DataFrames, time series
+numpy>=1.24.0             # Numerical computing
+scipy>=1.11.0             # Statistical functions (VaR, distributions)
+
+# Database
+# sqlite3 is built into Python - no install needed
+
+# Automation
+schedule>=1.2.0           # Job scheduling for daily pipeline
+
+# Utilities
+python-dotenv>=1.0.0      # Environment variable management
+tqdm>=4.65.0              # Progress bars for data fetching
